@@ -6,8 +6,7 @@
 <hr>
 
 ## 🛠 Tools
-
-<img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=vs-code&bgc=none&acol=red" alt="visual-studio-code">
+<img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=vs-code&bgc=none&acol=red" alt="visual-studio-code"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=figma&bgc=none&acol=red" alt="figma"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=sublime_text&bgc=none&acol=red" alt="sublime-text"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=notepad-plus&bgc=none&acol=red" alt="notepad-plus-plus"> 
 
 <hr>
 
