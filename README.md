@@ -10,4 +10,8 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim047&show_icons=true&theme=radical" alt="Fahimul Islam's Github Statistics">
 
+## Streak :fire
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim047&" alt="Fahimul Islam's contribution streak">
+
 
