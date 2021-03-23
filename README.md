@@ -3,6 +3,13 @@
 
 <p align="center">A practicing muslim :heart: and technology lover from Bangladesh 🇧🇩.</p>
 
+<!-- Some Counters -->
+<p align="center">
+    <img src="https://badges.pufler.dev/visits/Fahim047/Fahim047/?color=brightgreen&label=Profile+Visits"> &nbsp; 
+    <img src="https://badges.pufler.dev/updated/Fahim047/Fahim047"> &nbsp; 
+    <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
+</p>
+
 <!-- Languages I Know -->
  ## Languages :rocket:
 
