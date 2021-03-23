@@ -10,8 +10,46 @@
     <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
 </p>
 
+<hr>
+
+<h2>:gear: My Open Source Projects</h2>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/fahim047/fahim047"><b>My README</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Fahim047/Fahim047?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Fahim047/Fahim047?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Fahim047/Fahim047?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Fahim047/Fahim047?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+	  <tr>
+      <td><a href="https://github.com/Fahim047/master_academy"><b>Master Academy</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Fahim047/master_academy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Fahim047/master_academy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Fahim047/master_academy?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Fahim047/master_academy?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Fahim047/golang_tutorials"><b>Golang Tutorials</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/Fahim047/golang_tutorials?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/Fahim047/golang_tutorials?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/Fahim047/golang_tutorials?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/Fahim047/golang_tutorials?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+
 <!-- Languages I Know -->
- ## Languages :rocket:
+ ## :rocket: Languages 
 
 <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=c-programming&bgc=none&acol=red" alt="c-programming"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=go&bgc=none&acol=red" alt="go-language"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=c-plus&bgc=none&acol=red" alt="c-plus-plus"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=java&bgc=none&acol=red" alt="java-programming"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=html&bgc=none&acol=red" alt="html"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=css3&bgc=none&acol=red" alt="css"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=javascript&bgc=none&acol=red" alt="javascript"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=php0&bgc=none&acol=red" alt="php">
 
