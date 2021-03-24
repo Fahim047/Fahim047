@@ -63,11 +63,11 @@
 <!-- Github Statistics -->
 ## ⚡ My Github Statistics ⚡
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahim047&show_icons=true&theme=radical" alt="Fahimul Islam's Github Statistics">
+<img align="center" src="https://github-readme-stats-fahim047.vercel.app/api?username=fahim047&show_icons=true&theme=radical" alt="Fahimul Islam's Github Statistics">
 
 <!-- Github Most Used Languages -->
 ## Most Used Language :heart:
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim047&langs_count=8&layout=compact&theme=radical" alt="Fahimul Islam's Most Used Languages">
+<img align="center" src="https://github-readme-stats-fahim047.vercel.app/api/top-langs/?username=fahim047&langs_count=8&layout=compact&theme=radical" alt="Fahimul Islam's Most Used Languages">
 
 
 <!-- Github Contribution Streak -->
