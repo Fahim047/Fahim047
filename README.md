@@ -10,6 +10,16 @@
     <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
 </p>
 
+<br>
+
+- 🌱 I’m currently learning **Golang.**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Fahim047](https://github.com/Fahim047)
+
+- 💬 Ask me about **GO, HTML , CSS, Javascript.**
+
+- 📫 Email me at **fahimulislamfahad@programmer.net**
+
 <hr>
 
 <h2>:gear: My Open Source Projects</h2>
