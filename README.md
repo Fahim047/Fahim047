@@ -3,6 +3,11 @@
 
 <p align="center">A practicing muslim :heart: and technology lover from Bangladesh 🇧🇩.</p>
 
+<!-- Github Trophy -->
+<h2>:trophy: Github Trophy</h2>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim047" alt="Fahim's github trophy" /></a> </p>
+
 <!-- Some Counters -->
 <p align="center">
     <img src="https://badges.pufler.dev/visits/Fahim047/Fahim047/?color=brightgreen&label=Profile+Visits"> &nbsp; 
