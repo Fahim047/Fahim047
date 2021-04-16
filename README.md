@@ -1,5 +1,5 @@
 <!-- Introduction Part -->
-<h1 align="center">Hey 👋 Assalamu-alaikum, I'm Fahimul Islam</h1>
+<h2 align="center">Hey 👋 Assalamu-alaikum, I'm Fahimul Islam</h2>
 
 <p align="center">A practicing muslim :heart: and technology lover from Bangladesh 🇧🇩.</p>
 
@@ -9,8 +9,6 @@
     <img src="https://badges.pufler.dev/updated/Fahim047/Fahim047"> &nbsp; 
     <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
 </p>
-
-<br>
 
 - 🌱 I’m currently learning **Golang.**
 
@@ -23,13 +21,13 @@
 <hr>
 
 <!-- Github Trophy -->
-<h2>:trophy: Github Trophy</h2>
+<h3>:trophy: Github Trophy</h3>
 
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim047" alt="Fahim's github trophy" /></a></p>
+<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim047" alt="Fahim's github trophy" /></a></p>
 
 <hr>
 
-<h2>:gear: My Open Source Projects</h2>
+<h3>:gear: My Open Source Projects</h3>
 <table>
   <thead align="center">
     <tr border: none;>
@@ -66,31 +64,36 @@
 </table>
 
 <!-- Languages I Know -->
- ## :rocket: Languages 
+ ### :rocket: Languages 
 
-<img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=c-programming&bgc=none&acol=red" alt="c-programming"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=go&bgc=none&acol=red" alt="go-language"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=c-plus&bgc=none&acol=red" alt="c-plus-plus"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=java&bgc=none&acol=red" alt="java-programming"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=html&bgc=none&acol=red" alt="html"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=css3&bgc=none&acol=red" alt="css"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=javascript&bgc=none&acol=red" alt="javascript"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=php0&bgc=none&acol=red" alt="php">
+<img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=c-programming&bgc=none&acol=red" alt="c-programming"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=go&bgc=none&acol=red" alt="go-language"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=c-plus&bgc=none&acol=red" alt="c-plus-plus"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=java&bgc=none&acol=red" alt="java-programming"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=html&bgc=none&acol=red" alt="html"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=css3&bgc=none&acol=red" alt="css"> <img width="50px" height="35px" src="https://logo.letskhabar.com/img/?tool=javascript&bgc=none&acol=red" alt="javascript"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=php0&bgc=none&acol=red" alt="php">
 
 <hr>
 
-## 🛠 Tools
-<img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=vs-code&bgc=none&acol=red" alt="visual-studio-code"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=figma&bgc=none&acol=red" alt="figma"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=sublime_text&bgc=none&acol=red" alt="sublime-text"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=notepad-plus&bgc=none&acol=red" alt="notepad-plus-plus">
-<img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=git&bgc=none&acol=red" alt="notepad-plus-plus"> <img width="50px" height="50px" src="https://logo.letskhabar.com/img/?tool=github&bgc=none&acol=red" alt="notepad-plus-plus">
+### 🛠 Tools
+<img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=vs-code&bgc=none&acol=red" alt="visual-studio-code"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=figma&bgc=none&acol=red" alt="figma"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=sublime_text&bgc=none&acol=red" alt="sublime-text"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=notepad-plus&bgc=none&acol=red" alt="notepad-plus-plus">
+<img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=git&bgc=none&acol=red" alt="notepad-plus-plus"> <img width="35px" height="35px" src="https://logo.letskhabar.com/img/?tool=github&bgc=none&acol=red" alt="notepad-plus-plus">
 
 <hr>
 
 <!-- Github Statistics -->
-## ⚡ My Github Statistics ⚡
+### ⚡ My Github Statistics ⚡
 
 <img align="center" src="https://github-readme-stats-fahim047.vercel.app/api?username=fahim047&show_icons=true&theme=radical" alt="Fahimul Islam's Github Statistics">
 
 <!-- Github Most Used Languages -->
-## Most Used Language :heart:
+### Most Used Language :heart:
 <img align="center" src="https://github-readme-stats-fahim047.vercel.app/api/top-langs/?username=fahim047&langs_count=8&layout=compact&theme=radical" alt="Fahimul Islam's Most Used Languages">
 
 
 <!-- Github Contribution Streak -->
-## Streak :fire:
+### Streak :fire:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim047&theme=merko" alt="Fahimul Islam's contribution streak">
 
+
+###  💹 My Programming Stats
+<br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
