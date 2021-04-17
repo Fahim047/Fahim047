@@ -93,8 +93,6 @@
 
 
 ###  💹 My Programming Stats
-<br>
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
+<img src="https://github.com/Fahim047/Fahim047/blob/master/images/stat.svg" alt="Wakatime Stats"/>
 
