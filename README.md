@@ -5,8 +5,7 @@
 
 <!-- Some Counters -->
 <p align="center">
-    <img src="https://badges.pufler.dev/visits/Fahim047/Fahim047/?color=brightgreen&label=Profile+Visits"> &nbsp; 
-    <img src="https://badges.pufler.dev/updated/Fahim047/Fahim047"> &nbsp; 
+    <img src="https://badges.pufler.dev/visits/Fahim047/Fahim047/?color=brightgreen&label=Profile+Visits"> &nbsp;
     <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
 </p>
 
@@ -90,9 +89,4 @@
 ### Streak :fire:
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim047&theme=merko" alt="Fahimul Islam's contribution streak">
-
-
-###  💹 My Programming Stats
-
-<img src="https://github.com/Fahim047/Fahim047/blob/master/images/stat.svg" alt="Wakatime Stats"/>
 
