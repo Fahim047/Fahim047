@@ -9,13 +9,13 @@
     <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
 </p>
 
-- 🌱 I’m currently learning **Golang.**
+- 🌱 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at **[Github](https://github.com/Fahim047)**
 
-- 💬 Ask me about **GO, HTML , CSS, Javascript.**
+- 💬 Ask me about **C, C++, GO, HTML , CSS, Javascript.**
 
-- 📫 Email me at **fahimulislamfahad@programmer.net**
+- 📫 Email me at **fahimulislam58@gmail.com**
 
 <hr>
 
