@@ -61,7 +61,18 @@
     </tr>
   </tbody>
 </table>
-
+<hr>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/iamfif_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfif_58" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahimul047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimul047" height="30" width="40" /></a>
+<a href="https://fb.com/fahimul.islam.047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul.islam.047" height="30" width="40" /></a>
+<a href="https://instagram.com/__bluespider__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__bluespider__" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/fahim047" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fahim047" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/__bluespider__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__bluespider__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fahim047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahim047" height="30" width="40" /></a>
+</p>
+<hr>
 <!-- Languages I Know -->
  ### :rocket: Languages 
 
