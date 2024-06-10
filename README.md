@@ -21,7 +21,7 @@
 
 ## 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=Fahim047&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Fahim047&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
 
