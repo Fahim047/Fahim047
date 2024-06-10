@@ -9,24 +9,24 @@
     <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
 </p>
 
--   🌱 I’m currently learning **Javascript**
+-   🌱 I’m currently learning **Javascript, React, Next js**
 
 -   👨‍💻 All of my projects are available at **[Github](https://github.com/Fahim047)**
 
--   💬 Ask me about **C, C++, GO, HTML , CSS, Javascript.**
+-   💬 Ask me about **Web Development, Software Engineering**
 
 -   📫 Email me at **fahimulislam58@gmail.com**
 
-<hr>
-
 <!-- Github Trophy -->
-<h3>:trophy: Github Trophy</h3>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahim047" alt="Fahim's github trophy" /></a></p>
+## 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Fahim047&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <hr>
 
-<h3>:gear: My Open Source Projects</h3>
+### 👨‍💻 My Open Source Projects
+
 <table>
   <thead align="center">
     <tr border: none;>
@@ -62,9 +62,11 @@
   </tbody>
 </table>
 <hr>
-<h3 align="left">Connect with me:</h3>
+
+## Connect with me
+
 <p align="left">
-<a href="https://twitter.com/iamfif_58" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfif_58" height="30" width="40" /></a>
+<a href="https://twitter.com/_fahim047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfif_58" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/fahimul047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimul047" height="30" width="40" /></a>
 <a href="https://fb.com/fahimul.islam.047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul.islam.047" height="30" width="40" /></a>
 <a href="https://instagram.com/__bluespider__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__bluespider__" height="30" width="40" /></a>
@@ -74,17 +76,30 @@
 </p>
 <hr>
 
-<!-- Languages I Know -->
+<!-- Technologies I use  -->
 
-### :rocket: Languages
+## 🚀 Skills
 
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> </p>
+#### Programming Languages
 
-<hr>
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,go,python)
 
-### 🛠 Tools
+#### Frontend Technologies
 
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> </p>
+![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,react,next)
+
+#### Backend Technologies
+
+[![Backend Technologies](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,docker&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
+
+#### Other tools & Technologies
+
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,powershell)
+
 <hr>
 
 <!-- Github Statistics -->
@@ -95,12 +110,24 @@
 
 <!-- Github Most Used Languages -->
 
-### Most Used Language :heart:
+### ❤️ Most Used Language
 
 <img align="center" src="https://github-readme-stats-fahim047.vercel.app/api/top-langs/?username=fahim047&langs_count=8&layout=compact&theme=radical" alt="Fahimul Islam's Most Used Languages">
 
 <!-- Github Contribution Streak -->
 
-### Streak :fire:
+### 🔥 Streak
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim047&theme=merko" alt="Fahimul Islam's contribution streak">
+
+<hr>
+
+<!-- Random Developer meme -->
+
+### 😂 Random Dev Meme
+
+<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+
+## 💰 You can help me by Donating
+
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/fahim047)
