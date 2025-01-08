@@ -19,6 +19,59 @@
 - 💬 Ask me about **Web Development, Software Engineering**
 
 - 📫 Email me at **fahimulislam58@gmail.com**
+<!-- Technologies I use  -->
+
+## 🚀 Skills
+
+#### Programming Languages
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,go,python)
+
+#### Frontend Technologies
+
+![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,react,next)
+
+#### Backend Technologies
+
+[![Backend Technologies](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,docker&perline=3)](https://skillicons.dev)
+
+#### Database & Tools
+
+![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
+
+#### Other tools & Technologies
+
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,powershell)
+
+## Connect with me
+
+<p align="left">
+<a href="https://twitter.com/_fahim047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfif_58" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/fahimul047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimul047" height="30" width="40" /></a>
+<a href="https://fb.com/fahimul.islam.047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul.islam.047" height="30" width="40" /></a>
+<a href="https://instagram.com/__bluespider__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__bluespider__" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/fahim047" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fahim047" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/__bluespider__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__bluespider__" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/fahim047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahim047" height="30" width="40" /></a>
+</p>
+<hr>
+<!-- Github Statistics -->
+
+### ⚡ My Github Statistics ⚡
+
+<img align="center" src="https://github-readme-stats-fahim047.vercel.app/api?username=fahim047&show_icons=true&theme=radical" alt="Fahimul Islam's Github Statistics">
+
+<!-- Github Most Used Languages -->
+
+### ❤️ Most Used Language
+
+<img align="center" src="https://github-readme-stats-fahim047.vercel.app/api/top-langs/?username=fahim047&langs_count=8&layout=compact&theme=radical" alt="Fahimul Islam's Most Used Languages">
+
+<!-- Github Contribution Streak -->
+
+### 🔥 Streak
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim047&theme=merko" alt="Fahimul Islam's contribution streak">
 
 <!-- Github Trophy -->
 
@@ -26,9 +79,7 @@
 
 ![](https://github-profile-trophy.vercel.app/?username=Fahim047&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-<hr>
-
-### 👨‍💻 My Open Source Projects
+## 👨‍💻 My Open Source Projects
 
 <table>
   <thead align="center">
@@ -65,71 +116,6 @@
   </tbody>
 </table>
 <hr>
-
-## Connect with me
-
-<p align="left">
-<a href="https://twitter.com/_fahim047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamfif_58" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/fahimul047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fahimul047" height="30" width="40" /></a>
-<a href="https://fb.com/fahimul.islam.047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fahimul.islam.047" height="30" width="40" /></a>
-<a href="https://instagram.com/__bluespider__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__bluespider__" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/fahim047" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="fahim047" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/__bluespider__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="__bluespider__" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/fahim047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="fahim047" height="30" width="40" /></a>
-</p>
-<hr>
-
-<!-- Technologies I use  -->
-
-## 🚀 Skills
-
-#### Programming Languages
-
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=c,cpp,js,go,python)
-
-#### Frontend Technologies
-
-![Frontend Technologies](https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,react,next)
-
-#### Backend Technologies
-
-[![Backend Technologies](https://go-skill-icons.vercel.app/api/icons?i=nodejs,expressjs,docker&perline=3)](https://skillicons.dev)
-
-#### Database & Tools
-
-![Database & Tools](https://skillicons.dev/icons?i=mysql,mongodb)
-
-#### Other tools & Technologies
-
-![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,powershell)
-
-<hr>
-
-<!-- Github Statistics -->
-
-### ⚡ My Github Statistics ⚡
-
-<img align="center" src="https://github-readme-stats-fahim047.vercel.app/api?username=fahim047&show_icons=true&theme=radical" alt="Fahimul Islam's Github Statistics">
-
-<!-- Github Most Used Languages -->
-
-### ❤️ Most Used Language
-
-<img align="center" src="https://github-readme-stats-fahim047.vercel.app/api/top-langs/?username=fahim047&langs_count=8&layout=compact&theme=radical" alt="Fahimul Islam's Most Used Languages">
-
-<!-- Github Contribution Streak -->
-
-### 🔥 Streak
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim047&theme=merko" alt="Fahimul Islam's contribution streak">
-
-<hr>
-
-<!-- Random Developer meme -->
-
-### 😂 Random Dev Meme
-
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
 
 ## 💰 You can help me by Donating
 
