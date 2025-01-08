@@ -1,4 +1,7 @@
 <!-- Introduction Part -->
+<p align="center">
+  <img src="./readme-header.png" />
+</p>
 <h2 align="center">Hey 👋 Assalamu-alaikum, I'm Fahimul Islam</h2>
 
 <p align="center">A practicing muslim :heart: and technology lover from Bangladesh 🇧🇩.</p>
@@ -9,13 +12,13 @@
     <img src="https://badges.pufler.dev/created/Fahim047/Fahim047"> &nbsp;
 </p>
 
--   🌱 I’m currently learning **Javascript, React, Next js**
+- 🌱 I’m currently learning **Javascript, React, Next js**
 
--   👨‍💻 All of my projects are available at **[Github](https://github.com/Fahim047)**
+- 👨‍💻 All of my projects are available at **[Github](https://github.com/Fahim047)**
 
--   💬 Ask me about **Web Development, Software Engineering**
+- 💬 Ask me about **Web Development, Software Engineering**
 
--   📫 Email me at **fahimulislam58@gmail.com**
+- 📫 Email me at **fahimulislam58@gmail.com**
 
 <!-- Github Trophy -->
 
